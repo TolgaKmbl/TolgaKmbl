@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there, I’m @TolgaKmbl 👋
 
 <!--
 **TolgaKmbl/TolgaKmbl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👀 I’m interested in learning to code and change career pathways!
+- 🌱 I’m currently learning Solidity, JavaScript, C++.
+- 👯 I’m looking to collaborate on anything and everything related to web dev and blockchain related topics
+- 💪 I have completed the following Ivan on Tech academy courses;
+        Crypto for Beginners
+        Blockchain & Bitcoin 101
+        Ethereum 101
+        DeFi 101 & DeFi 201
+        Ethereum Smart Contract Programming 101 
+and currently studying at the Ethereum Smart Contract Programming 201 course.
+
+ 
+📫 How to reach me (tolgakumbul@gmail.com)
