@@ -1,10 +1,5 @@
 ### Hi there, I’m @TolgaKmbl 👋
 
-<!--
-**TolgaKmbl/TolgaKmbl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 👀 I’m interested in learning to code and change career pathways!
 - 🌱 I’m currently learning Solidity, JavaScript, C++.
 - 👯 I’m looking to collaborate on anything and everything related to web dev and blockchain related topics
