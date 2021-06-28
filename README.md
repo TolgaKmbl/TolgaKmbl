@@ -2,5 +2,5 @@
 
 - 👀 I’m interested in learning to code and change career pathways!
 - 🌱 I’m currently learning Solidity, JavaScript, C++ languages alongside with Ethereum dApp Development.
-- 👯 I’m looking to collaborate on anything and everything related to web dev and blockchain related topics
+- 👯 I’m looking to collaborate on anything and everything related to blockchain development topics
 - 📫 How to reach me (tolgakumbul@gmail.com)
