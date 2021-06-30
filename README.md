@@ -1,4 +1,4 @@
-### Hi there, I’m @TolgaKmbl 👋
+### Hi there, I’m Tolga Kumbul 👋
 
 - 👀 I’m interested in learning to code and change career pathways!
 - ✍ I’m currently learning Solidity, JavaScript, C++ languages alongside with Ethereum dApp Development.
