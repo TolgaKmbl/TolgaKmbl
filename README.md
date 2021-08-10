@@ -5,4 +5,5 @@
 - 🤝 I’m looking to collaborate on anything and everything related to blockchain development topics
 - 👨‍🎓 Istanbul Technical University, Ivan on Tech Academy
 - 📫 How to reach me (tolga_kumbul@protonmail.com)
+
 <a href="https://ethereum.stackexchange.com/users/78822/tolgakmbl"><img src="https://ethereum.stackexchange.com/users/flair/78822.png?theme=dark" width="208" height="58" alt="profile for TolgaKmbl at Ethereum Stack Exchange, Q&amp;A for users of Ethereum, the decentralized application platform and smart contract enabled blockchain" title="profile for TolgaKmbl at Ethereum Stack Exchange, Q&amp;A for users of Ethereum, the decentralized application platform and smart contract enabled blockchain"></a>
