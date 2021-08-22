@@ -13,6 +13,10 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TolgaKmbl&layout=compact" />
 </a>
 
+[![TolgaKmbl's Twitter Account](http://i.imgur.com/tXSoThF.png)](http://www.twitter.com/TolgaKmbl)
+
+
+
 
 
 
