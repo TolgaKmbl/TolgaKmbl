@@ -12,6 +12,14 @@
 <a href="https://tolgakmbl.github.io/">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TolgaKmbl&layout=compact" />
 </a>
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+
+[1.1]: http://i.imgur.com/tXSoThF.png 
+[2.1]: http://i.imgur.com/0o48UoR.png 
+
+[1]: http://www.twitter.com/TolgaKmbl
+[2]: http://www.github.com/TolgaKmbl
 
 
 
