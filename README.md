@@ -4,7 +4,7 @@
 - ✍ I’m currently learning Java and PL/SQL.
 - ✅ I have recently learned Solidity and JavaScript languages alongside with HTML/React(with Redux) to create a complete Ethereum dApp Project.
 - 🤝 I’m looking to collaborate on anything and everything related to blockchain development topics
-- 👨‍🎓 Istanbul Technical University, Ivan on Tech Academy
+- 👨‍🎓 Istanbul Technical University
 - 📫 How to reach me (tolga_kumbul@protonmail.com) 
 
  <a href="https://stackoverflow.com/users/16265598/tolgakmbl"><img align="right" src="https://stackoverflow.com/users/flair/16265598.png?theme=dark" width="208" height="58" alt="profile for TolgaKmbl at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for TolgaKmbl at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
