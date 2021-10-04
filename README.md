@@ -1,5 +1,7 @@
 ### Hi there, I’m Tolga Kumbul 👋
 
+![](https://komarev.com/ghpvc/?username=your-github-TolgaKmbl)
+
 - 👀 I’m interested in learning to code and change career pathways!
 - ✍ I’m currently learning Java and PL/SQL.
 - ✅ I have recently learned Solidity and JavaScript languages alongside with HTML/React(with Redux) to create a complete Ethereum dApp Project.
