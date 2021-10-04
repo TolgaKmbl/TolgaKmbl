@@ -1,6 +1,6 @@
 ### Hi there, I’m Tolga Kumbul 👋
 
-![](https://komarev.com/ghpvc/?username=your-github-TolgaKmbl)
+![](https://komarev.com/ghpvc/?username=your-github-TolgaKmbl&color=blueviolet&style=flat-square&label=Visitors)
 
 - 👀 I’m interested in learning to code and change career pathways!
 - ✍ I’m currently learning Java and PL/SQL.
