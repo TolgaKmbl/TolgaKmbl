@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in learning to code and change career pathways!
 - ✍ I’m currently learning Java and PL/SQL.
-- ✅ I have recently learned Solidity and JavaScript languages alongside with HTML/React(with Redux) to create a complete Ethereum dApp Project.
+- ✅ I have recently learned Solidity and JavaScript languages alongside with HTML/CSS and React(with Redux) to create a complete Ethereum dApp Project.
 - 🤝 I’m looking to collaborate on anything and everything related to programming topics
 - 👨‍🎓 Istanbul Technical University
 - 📫 How to reach me(tolga_kumbul@protonmail.com) 
