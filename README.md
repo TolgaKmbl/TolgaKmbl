@@ -13,9 +13,9 @@
 <a href="https://tolgakmbl.github.io/">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TolgaKmbl&layout=compact&theme=github_dark&hide_border=true" />
 </a>
-<a href="https://tolgakmbl.github.io/">
+<!-- <a href="https://tolgakmbl.github.io/">
   <img src="https://github-readme-stats.vercel.app/api?username=TolgaKmbl&show_icons=true&theme=github_dark&hide_border=true" />
-</a> 
+</a> -->
 
 
 
