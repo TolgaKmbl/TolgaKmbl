@@ -1,6 +1,6 @@
 ### Hi there, I’m Tolga Kumbul 👋
 
-- ✍ I’m currently learning Java(Spring/Spring Boot, Spring Security, Spring Cloud with Docker and Kubernetes), PL/SQL, Typescript and Angular.
+- ✍ I’m currently learning **Java**(*Spring/Spring Boot, Spring Security, Spring Cloud with Docker and Kubernetes*), **PL/SQL**, **Typescript** and **Angular**.
 - ✅ I have recently learned Solidity and JavaScript languages alongside with HTML/CSS and React(with Redux) to create a complete Ethereum dApp Project.
 
 - 👨‍🎓 Istanbul Technical University
