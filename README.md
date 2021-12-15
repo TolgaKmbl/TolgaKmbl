@@ -10,7 +10,7 @@
 </a>
 
 <a href="https://tolgakmbl.github.io/">
-  <img src="https://github-readme-stats.vercel.app/api?username=TolgaKmbl&show_icons=true&theme=github_dark&hide_border=true" width=50% height=50% />
+  <img src="https://github-readme-stats.vercel.app/api?username=TolgaKmbl&show_icons=true&theme=github_dark&hide_border=true" width=40% height=40% />
 </a>
 
 ---
