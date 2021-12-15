@@ -5,12 +5,12 @@
 
 - 👨‍🎓 Istanbul Technical University
 
-<a align="center" href="https://tolgakmbl.github.io/">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TolgaKmbl&layout=compact&theme=github_dark&hide_border=true" width=30% height=30%/>
+<a href="https://tolgakmbl.github.io/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TolgaKmbl&layout=compact&theme=github_dark&hide_border=true" width=30% height=30%/>
 </a>
 
 <a href="https://tolgakmbl.github.io/">
-  <img src="https://github-readme-stats.vercel.app/api?username=TolgaKmbl&show_icons=true&theme=github_dark&hide_border=true" width=40% height=40% />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TolgaKmbl&show_icons=true&theme=github_dark&hide_border=true" width=40% height=40% />
 </a>
 
 ---
