@@ -36,7 +36,7 @@
 [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:tolga_kumbul@protonmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tolga-k%C3%BCmb%C3%BCl/)
 
-<a href="mailto:tolga_kumbul@protonmail.com">
+<a align="center" href="mailto:tolga_kumbul@protonmail.com">
   <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
 </a>
 
