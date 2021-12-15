@@ -32,7 +32,7 @@
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
 
 ---
-### :mailbox: Socials 
+#### :mailbox: Socials 
 
 <p align="center">
   <a href="mailto:tolga_kumbul@protonmail.com">
