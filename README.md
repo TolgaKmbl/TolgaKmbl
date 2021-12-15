@@ -34,7 +34,7 @@
 ---
 #### :mailbox: Socials 
 
-<p align="center">
+<p align="center" margin-x="15px">
   <a href="mailto:tolga_kumbul@protonmail.com">
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
   </a>
