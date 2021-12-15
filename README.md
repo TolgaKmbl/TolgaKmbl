@@ -16,7 +16,9 @@
 <a href="https://tolgakmbl.github.io/">
   <img src="https://github-readme-stats.vercel.app/api?username=TolgaKmbl&show_icons=true&theme=github_dark&hide_border=true" width=35% height=35% />
 </a>
+
 ---
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
