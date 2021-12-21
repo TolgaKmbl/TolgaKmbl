@@ -1,8 +1,5 @@
 ### Hi there, I’m Tolga Kumbul 👋
 
-[<img align="left" src="./linkedin.svg" alt="Tolga Kumbul | Linkedin" width="22px" />][Linkedin]
-
-
 - ✍ I’m currently learning **Java**(*Spring/Spring Boot, Spring Security, Spring Cloud with Docker and Kubernetes*), **PL/SQL**, **Typescript** and **Angular**.
 - ✅ I have recently learned Solidity and JavaScript languages alongside with HTML/CSS and React(with Redux) to create a complete Ethereum dApp Project.
 
@@ -37,6 +34,7 @@
 [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:tolga_kumbul@protonmail.com)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tolga-k%C3%BCmb%C3%BCl/)
 
+[<img align="left" src="./linkedin.svg" alt="Tolga Kumbul | Linkedin" width="22px" />][Linkedin]
 
 [Linkedin]: https://www.linkedin.com/in/tolga-k%C3%BCmb%C3%BCl/
 
