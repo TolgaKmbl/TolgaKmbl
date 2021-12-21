@@ -29,10 +29,6 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white&style=Plastic)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white&style=Plastic) 
 
----
-### :mailbox: Socials
-[![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&style=Plastic)](mailto:tolga_kumbul@protonmail.com)
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&style=Plastic)](https://www.linkedin.com/in/tolga-k%C3%BCmb%C3%BCl/)
 
 
 
