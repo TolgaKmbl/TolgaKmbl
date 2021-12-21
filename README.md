@@ -2,6 +2,11 @@
 [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&style=Plastic)](mailto:tolga_kumbul@protonmail.com)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&style=Plastic)](https://www.linkedin.com/in/tolga-k%C3%BCmb%C3%BCl/)
 
+- ✍ I’m currently learning **Java**(*Spring/Spring Boot, Spring Security, Spring Cloud with Docker and Kubernetes*), **PL/SQL**, **Typescript** and **Angular**.
+- ✅ I have recently learned Solidity and JavaScript languages alongside with HTML/CSS and React(with Redux) to create a complete Ethereum dApp Project.
+
+- 👨‍🎓 Istanbul Technical University
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TolgaKmbl&layout=compact&theme=github_dark&hide_border=true" width=40% height=40%/>
 
   <img src="https://github-readme-stats.vercel.app/api?username=TolgaKmbl&show_icons=true&theme=github_dark&hide_border=true" width=50% height=50% />
