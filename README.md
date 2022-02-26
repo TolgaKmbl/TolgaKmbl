@@ -6,6 +6,9 @@
 
 - 👨‍🎓 Istanbul Technical University
 
+  <div class="badge-base LI-profile-badge" data-locale="tr_TR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="tolga-kümbül" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tr.linkedin.com/in/tolga-k%C3%BCmb%C3%BCl?trk=profile-badge">Tolga Kümbül</a></div>
+              
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TolgaKmbl&layout=compact&theme=github_dark&hide_border=true" width=40% height=40%/>
 
   <img src="https://github-readme-stats.vercel.app/api?username=TolgaKmbl&show_icons=true&theme=github_dark&hide_border=true" width=50% height=50% />
@@ -30,24 +33,3 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&style=Plastic)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white&style=Plastic)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white&style=Plastic) 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
