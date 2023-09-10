@@ -12,6 +12,9 @@
 
 ---
 ### :man_technologist: Technology Summary
+<!-- ![My Skills](https://skillicons.dev/icons?i=java,spring) -->
+
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&style=Plastic)
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white&style=Plastic)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white&style=Plastic)
